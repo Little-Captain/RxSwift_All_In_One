@@ -1,0 +1,33 @@
+[submodule "Schedulers"]
+	path = Schedulers
+	url = git@github.com:Little-Captain/Schedulers.git
+[submodule "Combinestagram"]
+	path = Combinestagram
+	url = git@github.com:Little-Captain/Combinestagram.git
+[submodule "OurPlanet"]
+	path = OurPlanet
+	url = git@github.com:Little-Captain/OurPlanet.git
+[submodule "Wundercast"]
+	path = Wundercast
+	url = git@github.com:Little-Captain/Wundercast.git
+[submodule "Wundercast2"]
+	path = Wundercast2
+	url = git@github.com:Little-Captain/Wundercast2.git
+[submodule "Tweetie"]
+	path = Tweetie
+	url = git@github.com:Little-Captain/Tweetie.git
+[submodule "iGif"]
+	path = iGif
+	url = git@github.com:Little-Captain/iGif.git
+[submodule "GitFeed"]
+	path = GitFeed
+	url = git@github.com:Little-Captain/GitFeed.git
+[submodule "Testing"]
+	path = Testing
+	url = git@github.com:Little-Captain/Testing.git
+[submodule "RxSwiftPlaygrounds"]
+	path = RxSwiftPlaygrounds
+	url = git@github.com:Little-Captain/RxSwiftPlaygrounds.git
+[submodule "QuickTodo"]
+	path = QuickTodo
+	url = git@github.com:Little-Captain/QuickTodo.git
